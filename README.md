@@ -4,7 +4,7 @@
 
 ## General Site
 
--   [ ] research more about verticle navbar progress indicator (there is a bit about this for React Native, maybe the logic can carry over)(google keywords: react js dot navigation scrollview progress indicator)
+-   [ ] research more about vertical navbar progress indicator (there is a bit about this for React Native, maybe the logic can carry over)(google keywords: react js dot navigation scrollview progress indicator)
 -   [ ] research and apply methods for site better performance (mobile)
 -   [ ] create a custom 404 page - [instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
 -   [ ] (STRETCH) background plant/roots [scroll-drawing](https://css-tricks.com/scroll-drawing/)
