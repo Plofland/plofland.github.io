@@ -28,6 +28,14 @@ export default function Skills() {
 							alt="JavaScript badge"
 						/>
 						<img
+							src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=3776AB&style=plastic"
+							alt="Python badge"
+						/>
+						<img
+							src="https://img.shields.io/badge/-NextJS-61DAFB?logo=nextdotjs&logoColor=000000&style=plastic"
+							alt="NextJS badge"
+						/>
+						<img
 							src="https://img.shields.io/badge/-Redux-61DAFB?logo=redux&logoColor=764ABC&style=plastic"
 							alt="Redux badge"
 						/>
@@ -40,11 +48,15 @@ export default function Skills() {
 							alt="NPM badge"
 						/>
 						<img
+							src="https://img.shields.io/badge/-Jest-61DAFB?logo=jest&logoColor=white&style=plastic"
+							alt="NPM badge"
+						/>
+						<img
 							src="https://img.shields.io/badge/-Figma-61DAFB?logo=figma&logoColor=F24E1E&style=plastic"
 							alt="Figma badge"
 						/>
 						<img
-							src="https://img.shields.io/badge/-NodeJS-61DAFB?logo=node-dot-js&logoColor=339933&style=plastic"
+							src="https://img.shields.io/badge/-NodeJS-61DAFB?logo=nodedotjs&logoColor=339933&style=plastic"
 							alt="NodeJS badge"
 						/>
 						<img
@@ -85,10 +97,6 @@ export default function Skills() {
 					<h3>Experienced</h3>
 					<div>
 						<img
-							src="https://img.shields.io/badge/-Python-61DAFB?logo=python&logoColor=3776AB&style=plastic"
-							alt="Python badge"
-						/>
-						<img
 							src="https://img.shields.io/badge/-Materia%20UI-61DAFB?logo=html5&logoColor=0081CB&style=plastic"
 							alt="MateriaUI badge"
 						/>
@@ -107,10 +115,6 @@ export default function Skills() {
 						<img
 							src="https://img.shields.io/badge/-Vercel-61DAFB?logo=html5&logoColor=000000&style=plastic"
 							alt="Vercel badge"
-						/>
-						<img
-							src="https://img.shields.io/badge/-NextJS-61DAFB?logo=next-dot-js&logoColor=000000&style=plastic"
-							alt="NextJS badge"
 						/>
 						<img
 							src="https://img.shields.io/badge/-Amplify-61DAFB?logo=amplify&logoColor=red&style=plastic"
